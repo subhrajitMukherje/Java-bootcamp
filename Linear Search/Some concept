@@ -1,0 +1,4 @@
+1. Its used for Search a number or string in a Array
+2. The best time complexity is O(1)
+3. The worst time complexity is O(n)... where n stands for total number of element in array
+4. The space complexity is O(1)
