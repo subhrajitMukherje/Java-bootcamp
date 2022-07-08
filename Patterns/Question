@@ -1,1 +1,123 @@
+1. Print the following Patterns:-
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5
+ 
+2. Print the following Patterns:-
+0
+505
+45054
+3450543
+234505432
+12345054321
 
+3. Print the following Patterns:-
+1 
+2 2 1 
+3 3 3 2 1 
+4 4 4 4 3 2 1 
+5 5 5 5 5 4 3 2 1 
+1 2 3 4 3 2 1 
+1 2 3 2 1 
+1 2 1 
+1 
+
+4. Print the following Patterns:-
+543212345
+5432 2345
+543   345
+54     45
+5       5
+
+5. Print the following Patterns:-
+1 
+2 2 
+3 3 3 
+4 4 4 4 
+5 5 5 5 5 
+6 6 6 6 
+7 7 7 
+8 8 
+9 
+
+6. Print the following Patterns:-
+1 
+2 1 2 
+3 2 1 2 3 
+4 3 2 1 2 3 4 
+5 4 3 2 1 2 3 4 5 
+4 3 2 1 2 3 4 
+3 2 1 2 3 
+2 1 2 
+1
+ 
+7. Print the following Patterns:-
+1 
+2 3 
+6 5 4 
+7 8 9 10 
+15 14 13 12 11 
+
+8. Print the following Patterns:-
+2 
+3 5 
+7 11 13 
+17 19 23 29 
+31 37 41 43 47 
+
+9. Print the following Patterns:-
+1 
+1 1 
+1 1 2 
+1 1 2 3 
+1 1 2 3 5 
+1 1 2 3 5 8 
+1 1 2 3 5 8 13 
+
+10. Print the following Patterns:-
+5 5 5 5 5 
+4 5 5 5 5 
+3 4 5 5 5 
+2 3 4 5 5 
+1 2 3 4 5 
+
+11. Print the following Patterns:-
+1 2 3 4 5 
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+1 
+1 2 
+1 2 3  
+1 2 3 4 
+1 2 3 4 5 
+
+
+12. Print the following Patterns:-
+12345
+ 2345
+  345
+   45
+    5
+    5
+   45
+  345
+ 2345
+12345
+
+13. Print the following Patterns:-
+10000
+02000
+00300
+00040
+00005
+
+14. Print the following Patterns:-
+1 
+2 6 
+3 7 10 
+4 8 11 13 
+5 9 12 14 15 
